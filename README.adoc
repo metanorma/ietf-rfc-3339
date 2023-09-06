@@ -1,8 +1,6 @@
 = Metanorma RFC 3339 sample
 
-image:https://github.com/metanorma/ietf-rfc-3339/workflows/ubuntu/badge.svg["Build Status", link="https://github.com/metanorma/ietf-rfc-3339/actions?workflow=ubuntu"]
-image:https://github.com/metanorma/ietf-rfc-3339/workflows/macos/badge.svg["Build Status", link="https://github.com/metanorma/ietf-rfc-3339/actions?workflow=macos"]
-image:https://github.com/metanorma/ietf-rfc-3339/workflows/windows/badge.svg["Build Status", link="https://github.com/metanorma/ietf-rfc-3339/actions?workflow=windows"]
+image:https://github.com/metanorma/ietf-rfc-3339/workflows/generate/badge.svg["Build Status", link="https://github.com/metanorma/ietf-rfc-3339/actions?workflow=generate"]
 image:https://github.com/metanorma/ietf-rfc-3339/workflows/docker/badge.svg["Build Status", link="https://github.com/metanorma/ietf-rfc-3339/actions?workflow=docker"]
 
 This document is available in its rendered forms here:
