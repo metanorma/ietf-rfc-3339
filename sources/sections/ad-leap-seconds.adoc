@@ -29,6 +29,7 @@ between the time standard TAI (which isn't adjusted by leap seconds)
 and UTC after that leap second.
 
 
+.Leap seconds: TAI − UTC difference after each leap second
 [cols="2",options="unnumbered,header"]
 |===
 | UTC Date  | TAI - UTC After Leap Second

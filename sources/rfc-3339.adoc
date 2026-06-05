@@ -6,17 +6,13 @@
 :ipr: trust200902
 :area: Internet
 :workgroup: Network Working Group
-:docnumber: 3339
-:keyword:
-:ipr: trust200902
 :revdate: 2002-07-01
 :fullname: Chris Klyne
 :forename_initials: G.
 :lastname: Klyne
 :email: GK@ACM.ORG
 :organization: Clearswift Corporation
-:uri:
-:street: 1310 Waterside\nArlington Business Park
+:street: 1310 Waterside, Arlington Business Park
 :city: Theale, Reading
 :code: RG7 4SA
 :country: UK
@@ -25,12 +21,11 @@
 :lastname_2: Newman
 :email_2: chris.newman@sun.com
 :organization_2: Sun Microsystems
-:uri_2:
 :street_2: 1050 Lakes Drive, Suite 250
-:city: West Covina
-:state: CA
-:code: 91790
-:country: USA
+:city_2: West Covina
+:state_2: CA
+:code_2: 91790
+:country_2: USA
 :docfile: rfc-3339.adoc
 :mn-document-class: ietf
 :mn-output-extensions: xml,rfc,txt,html,rxl
